@@ -47,3 +47,8 @@ In summary, `setup.cfg` is used by setuptools to configure the packaging and ins
 
 - **pylint**
 - **flake8** (includes `pylint`, `pycodestyle`, and `mccabe`)
+
+
+### The whole credit goes to Sunny Savita and ineuron team.
+- The CI pipline is not runnning as i was not able to publish the package to PyPi as they are not currenlty not taking in new registrations. 
+- I was not able to get the credentials for the same.
